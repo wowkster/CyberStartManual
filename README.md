@@ -1,10 +1,10 @@
 # CyberStart Manual
 
-Detailed Solutions to all of the CyberStart America CTF challenges
+Detailed Solutions to all of the [CyberStart America](https://cyberstart.com/) CTF challenges
 
 ## Format
 
-This repository is split up into different folder for every base and every level. Inside each level there is a markdown file for every challenge with the 2022 solution and a detailed description of how to solve the challenge
+This repository is split up into different folder for every base and every level. Inside each level there is a markdown file for every challenge with the 2022 solution and a detailed description of how to solve the challenge. *I cannot guarantee that these challenges will not change in the future, so if the briefing and/or challenge name does not match, it could be an indication that the challenge has changed.*
 
 ## Flags
 
